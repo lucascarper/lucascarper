@@ -59,10 +59,10 @@ class Lucas:
       <img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=E10600" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Django%20REST-0D0D0D?style=for-the-badge&logo=django&logoColor=E10600" alt="Django REST" />
       <img src="https://img.shields.io/badge/SQLAlchemy-0D0D0D?style=for-the-badge&logo=sqlalchemy&logoColor=E10600" alt="SQLAlchemy" />
-      <img src="https://img.shields.io/badge/Alembic-0D0D0D?style=for-the-badge&logo=alembic&logoColor=E10600" alt="Alembic" />
+      <img src="https://img.shields.io/badge/Alembic-0D0D0D?style=for-the-badge&logo=sqlalchemy&logoColor=E10600" alt="Alembic" />
       <img src="https://img.shields.io/badge/Jinja-0D0D0D?style=for-the-badge&logo=jinja&logoColor=E10600" alt="Jinja" />
       <img src="https://img.shields.io/badge/HTMX-0D0D0D?style=for-the-badge&logo=htmx&logoColor=E10600" alt="HTMX" />
-      <img src="https://img.shields.io/badge/APScheduler-0D0D0D?style=for-the-badge&logo=clockify&logoColor=E10600" alt="APScheduler" />
+      <img src="https://img.shields.io/badge/APScheduler-0D0D0D?style=for-the-badge&logo=python&logoColor=E10600" alt="APScheduler" />
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ class Lucas:
     <td>
       <img src="https://img.shields.io/badge/pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=E10600" alt="pandas" />
       <img src="https://img.shields.io/badge/NumPy-0D0D0D?style=for-the-badge&logo=numpy&logoColor=E10600" alt="NumPy" />
-      <img src="https://img.shields.io/badge/openpyxl-0D0D0D?style=for-the-badge&logo=microsoftexcel&logoColor=E10600" alt="openpyxl" />
+      <img src="https://img.shields.io/badge/openpyxl-0D0D0D?style=for-the-badge&logo=python&logoColor=E10600" alt="openpyxl" />
       <img src="https://img.shields.io/badge/Chart.js-0D0D0D?style=for-the-badge&logo=chartdotjs&logoColor=E10600" alt="Chart.js" />
       <img src="https://img.shields.io/badge/ECharts-0D0D0D?style=for-the-badge&logo=apacheecharts&logoColor=E10600" alt="ECharts" />
       <img src="https://img.shields.io/badge/Mermaid-0D0D0D?style=for-the-badge&logo=mermaid&logoColor=E10600" alt="Mermaid" />
@@ -191,7 +191,7 @@ class Lucas:
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucascarper&bg_color=0D0D0D&color=FFFFFF&line=E10600&point=FFFFFF&area=true&area_color=E10600&hide_border=true&title_color=E10600" alt="Gráfico de atividade" />
+<img src="https://github-readme-activity-graph-xi.vercel.app/graph?username=lucascarper&bg_color=0D0D0D&color=FFFFFF&line=E10600&point=FFFFFF&area=true&area_color=E10600&hide_border=true&title_color=E10600" alt="Gráfico de atividade" />
 </div>
 
 ---
@@ -199,7 +199,7 @@ class Lucas:
 ## ▌ Conquistas
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lucascarper&theme=onedark&background=0D0D0D&title_color=E10600&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-xi.vercel.app/?username=lucascarper&theme=onedark&background=0D0D0D&title_color=E10600&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
