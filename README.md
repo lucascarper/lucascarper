@@ -199,7 +199,7 @@ class Lucas:
 ## ▌ Conquistas
 
 <div align="center">
-<img src="https://github-profile-trophy-xi.vercel.app/?username=lucascarper&theme=onedark&background=0D0D0D&title_color=E10600&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/lucascarper/lucascarper/main/assets/trofeus.svg" alt="Troféus do GitHub" width="900" />
 </div>
 
 ---

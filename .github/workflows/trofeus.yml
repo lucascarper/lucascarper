@@ -1,0 +1,47 @@
+name: Trofeus
+
+on:
+  schedule:
+    - cron: "30 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/gerar_trofeus.py
+      - .github/workflows/trofeus.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trofeus
+  cancel-in-progress: true
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar assets/trofeus.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python scripts/gerar_trofeus.py
+
+      - name: Commitar se mudou
+        run: |
+          if git diff --quiet -- assets/trofeus.svg && [ -z "$(git ls-files --others --exclude-standard assets)" ]; then
+            echo "Sem mudanças."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/trofeus.svg
+          git commit -m "chore: atualiza troféus"
+          git push
