@@ -15,7 +15,7 @@
       <path d="M8 4h8v5a4 4 0 0 1-8 0V4z M8 6H5v1.5A2.5 2.5 0 0 0 7.5 10 M16 6h3v1.5a2.5 2.5 0 0 1-2.5 2.5 M12 13v3 M9 20h6 M10 16h4v4h-4z"/>
     </g>
     <text x="59.0" y="68" text-anchor="middle" font-size="11" font-weight="600" fill="#9E9E9E">Commits (12m)</text>
-    <text x="59.0" y="88" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">94</text>
+    <text x="59.0" y="88" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">98</text>
     <rect x="39.0" y="98" width="40" height="20" rx="10" fill="#1A1A1A" stroke="#E10600"/>
     <text x="59.0" y="112" text-anchor="middle" font-size="12" font-weight="700" fill="#E10600">B</text>
   </g>
@@ -45,7 +45,7 @@
       <path d="M8 4h8v5a4 4 0 0 1-8 0V4z M8 6H5v1.5A2.5 2.5 0 0 0 7.5 10 M16 6h3v1.5a2.5 2.5 0 0 1-2.5 2.5 M12 13v3 M9 20h6 M10 16h4v4h-4z"/>
     </g>
     <text x="59.0" y="68" text-anchor="middle" font-size="11" font-weight="600" fill="#9E9E9E">Pull Requests</text>
-    <text x="59.0" y="88" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">34</text>
+    <text x="59.0" y="88" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">37</text>
     <rect x="39.0" y="98" width="40" height="20" rx="10" fill="#1A1A1A" stroke="#E10600"/>
     <text x="59.0" y="112" text-anchor="middle" font-size="12" font-weight="700" fill="#E10600">AA</text>
   </g>
